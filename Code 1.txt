@@ -1,0 +1,28 @@
+<!Starting note thingy: If you want to add more, and it ends up getting typed on a white space, increase the height coordinates for the background and the main border.>
+<div style="background: url(https://www.teahub.io/photos/full/71-715464_background-gryffindor-and-harry-potter-gryffindor-poster.jpg); width:100%; height: 150%">
+<br><br>
+<center>
+<div style="background: rgba(255,255,255,0.5); width:76%; height: 92%; border:10px ridge #0a0229"><br><br>
+<b><span style="color: #000; Serif: cursive; font-size: 200%">No Eye Dear !</span></b>
+<br><br>
+<img src="Jack Redwood">
+<br><br>
+<span style="color: #000; font-family: cursive; font-size: 100%">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit libero lacus, a rhoncus dui sagittis vitae. Nulla vitae mauris lacinia, tempus turpis eu, accumsan velit.</span>
+<br><br><br>
+<div style="border: 5px double #9c061a; width:90%">
+<br>
+<b><u><span style="color: #000; font-family: cursive; font-size: 150%">Masters of Minds !</span></u></b><br><br> 
+<span style="color: #000; font-family: cursive; font-size: 100%">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit libero lacus, a rhoncus dui sagittis vitae. Nulla vitae mauris lacinia, tempus turpis eu, accumsan velit.</span><br><br>
+</div><br><br>
+<span style="color: #000; font-family: cursive; font-size: 100%">
+See ya Soon!</span><br><br>
+<img src="Signature url">
+<br><br>
+</center>
+</div>
+</div>
+</div>
+<center>
+<a href="https://veescodes.tumblr.com" style="color: #000; font-family: Arial; font-size: 10px;">coded by Vee</a></center>
