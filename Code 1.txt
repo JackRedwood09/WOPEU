@@ -1,24 +1,24 @@
 <!Starting note thingy: If you want to add more, and it ends up getting typed on a white space, increase the height coordinates for the background and the main border.>
-<div style="background: url(https://www.teahub.io/photos/full/71-715464_background-gryffindor-and-harry-potter-gryffindor-poster.jpg); width:100%; height: 150%">
+<div style="background: url(https://pradaandpearls.com/wp-content/uploads/2021/01/Daring-nerve-and-chivarly-set-Gryffindors-apart-5.png); width:100%; height: 172%">
 <br><br>
 <center>
 <div style="background: rgba(255,255,255,0.5); width:76%; height: 92%; border:10px ridge #0a0229"><br><br>
-<b><span style="color: #000; Serif: cursive; font-size: 200%">No Eye Dear !</span></b>
+<b><span style="color: #050001; Serif: cursive; font-size: 200%">✨ <u>Masters Of Minds!</u> ✨</span></b>
 <br><br>
-<img src="Jack Redwood">
-<br><br>
-<span style="color: #000; font-family: cursive; font-size: 100%">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit libero lacus, a rhoncus dui sagittis vitae. Nulla vitae mauris lacinia, tempus turpis eu, accumsan velit.</span>
+<span style="color: #000; font-family: cursive; font-size: 97%">
+Hello Brave! I am Jack... Jack Redwood! I brought you challenges every week. You all just need to answer the below simple question in comments and you will get raining of wizard cards. 
+<br><br>Let me clear you the 4 rules: <br>♥ 1 - Answer the simple question in comment box.<br> <br>♥ 2 -The time you have to answer is that you need to answer it before the next Challenge pops up. <br><br>♥ 4 - Your Friend <s>(Google)</s> will not help you to find the right answer but maybe some exploration into site might help you. 
+<br><br>Yeah! I know the 4th rule was hint and I missed the 3rd rule and before you little Lion took out your wand and search for me, Answer the today’s question and comment down below.<s>(Okay! You are not little)</s></span>
 <br><br><br>
 <div style="border: 5px double #9c061a; width:90%">
 <br>
-<b><u><span style="color: #000; font-family: cursive; font-size: 150%">Masters of Minds !</span></u></b><br><br> 
+<b><u><span style="color: #022a4d; font-family: cursive; font-size: 150%">Fortune Favours The Brave!</span></u></b><br><br> 
 <span style="color: #000; font-family: cursive; font-size: 100%">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit libero lacus, a rhoncus dui sagittis vitae. Nulla vitae mauris lacinia, tempus turpis eu, accumsan velit.</span><br><br>
+🌠Who won the Lion Award of Faceclaim of the Year 27?</span><br><br>
 </div><br><br>
 <span style="color: #000; font-family: cursive; font-size: 100%">
 See ya Soon!</span><br><br>
-<img src="Signature url">
+<img src="https://fontmeme.com/permalink/220825/1c41a1415bd36876d773303ce4df67cd.png">
 <br><br>
 </center>
 </div>
